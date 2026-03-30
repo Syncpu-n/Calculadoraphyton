@@ -1,0 +1,5 @@
+print("*" * 30) 
+print( "     Menu") 
+print("*" * 30)
+print('[1]- Jogar')
+print('[2]-...')
